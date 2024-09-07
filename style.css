@@ -1,0 +1,36 @@
+.oybek{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    border: 1px solid brown;
+    font-size: 60px;
+    width: 636px;
+    margin: auto;
+}
+
+.style{
+    background-color: black;
+    border: 8px solid red;
+    width: 1000px;
+    margin: auto;
+}
+
+.list1{
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    width: 800px;
+    margin: auto;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+}
+
+.list2{
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    width: 800px;
+    margin: auto;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+}
